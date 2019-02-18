@@ -1,2 +1,3 @@
 branch changes
 Test6 Master
+Test6 branch second time changes.
